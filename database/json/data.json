@@ -1,0 +1,63 @@
+[
+    {
+      "firstname": "Sakura",
+      "lastname": "Tanaka",
+      "city": "Tokyo",
+      "phoneno": "+810801234567"
+    },
+    {
+      "firstname": "Ravi",
+      "lastname": "Patel",
+      "city": "Mumbai",
+      "phoneno": "+912202345678"
+    },
+    {
+      "firstname": "Wei",
+      "lastname": "Chen",
+      "city": "Shanghai",
+      "phoneno": "+8613912345678"
+    },
+    {
+      "firstname": "Ji-hyun",
+      "lastname": "Kim",
+      "city": "Seoul",
+      "phoneno": "+821012345678"
+    },
+    {
+      "firstname": "Mohammad",
+      "lastname": "Alam",
+      "city": "Dhaka",
+      "phoneno": "+8801712345678"
+    },
+    {
+      "firstname": "Ananya",
+      "lastname": "Gupta",
+      "city": "Delhi",
+      "phoneno": "+911202345678"
+    },
+    {
+      "firstname": "Hiroshi",
+      "lastname": "Yamamoto",
+      "city": "Osaka",
+      "phoneno": "+819012345678"
+    },
+    {
+      "firstname": "Ming",
+      "lastname": "Wong",
+      "city": "Hong Kong",
+      "phoneno": "+85261234567"
+    },
+    {
+      "firstname": "Arun",
+      "lastname": "Singh",
+      "city": "Bangalore",
+      "phoneno": "+919901234567"
+    },
+    {
+      "firstname": "Nadia",
+      "lastname": "Khan",
+      "city": "Islamabad",
+      "phoneno": "+923451234567"
+    }
+  ]
+  
